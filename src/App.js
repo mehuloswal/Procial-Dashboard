@@ -17,7 +17,7 @@ export default function App() {
       <div className='outer'>
         <div className='inner'>
           <form onSubmit={onConnect}>
-            <button type='submit'>Connect Here</button>
+            <button type='submit'>Connect</button>
           </form>
         </div>
       </div>
